@@ -127,7 +127,7 @@ npm start -- --mode production --developer lucas-acuna
 ```
 
 **📧 Direct Contact:** contactolucasacuna@gmail.com
-**💼 LinkedIn:** [My linkedin] (https://www.linkedin.com/in/lucas-acu%C3%B1a/)
+**💼 LinkedIn:** [My linkedin](https://www.linkedin.com/in/lucas-acu%C3%B1a/)
 **📋 Resume:** [My Resume](https://github.com/lucasandlucas999/lucasandlucas999/releases/download/Resume/CV_Lucas_Acuna.pdf)
 ---
 
