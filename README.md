@@ -141,7 +141,7 @@ npm start -- --mode production --developer lucas-acuna
 <img src="https://github-readme-stats.vercel.app/api?username=lucasandlucas999&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandlucas999&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandlucas999&layout=compact&theme=dark" alt="Top Languages" />
 </td>
 </tr>
 </table>
