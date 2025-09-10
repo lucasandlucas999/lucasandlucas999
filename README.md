@@ -10,11 +10,6 @@ Soy un desarrollador apasionado por crear experiencias digitales excepcionales. 
 Mi enfoque va más allá del código: me concentro en resolver problemas reales con soluciones elegantes y eficientes.
 
 ---
-
-### 💻 Stack Tecnológico
-
-<div align="center">
-
 # 🛠️ Tech Stack
 
 <div align="center">
@@ -62,7 +57,6 @@ Mi enfoque va más allá del código: me concentro en resolver problemas reales 
 
 </div>
 
-</div>
 
 ---
 
