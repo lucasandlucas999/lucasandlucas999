@@ -7,8 +7,6 @@
 
 Soy un desarrollador apasionado por crear experiencias digitales excepcionales. Me especializo en construir aplicaciones web robustas, desde interfaces de usuario intuitivas hasta arquitecturas backend escalables. 
 
-Mi enfoque va más allá del código: me concentro en resolver problemas reales con soluciones elegantes y eficientes.
-
 ---
 # 🛠️ Tech Stack
 
