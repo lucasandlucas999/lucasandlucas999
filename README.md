@@ -57,18 +57,17 @@ Soy un desarrollador apasionado por crear experiencias digitales excepcionales. 
 
 ### Lo que me caracteriza
 
- **Código limpio y mantenible** - Escribo pensando en el equipo que viene después  
- **Enfoque en rendimiento** - Optimizo desde el primer commit  
- **Automatización inteligente** - Si se puede automatizar, se debe automatizar  
- **Experiencia de usuario primero** - La tecnología debe ser invisible para el usuario  
- **Mentalidad remota** - Colaboración efectiva sin importar la distancia  
+ **Código limpio y mantenible**
+ **Enfoque en rendimiento** 
+ **Automatización inteligente**
+ **Experiencia de usuario primero**
 
 ---
 
 ### 🛠️ Proyectos destacados
 
  **Aplicaciones Web Modernas** - Desarrollo completo con React y Laravel  
- **APIs Escalables** - Arquitecturas backend que crecen con tu negocio  
+ **APIs Escalables** - Arquitecturas backend que crecen
  **Infraestructura Cloud** - Despliegues automatizados con Docker 
  **Optimización de Bases de Datos** - Queries rápidos y estructuras eficientes  
 
