@@ -1,9 +1,9 @@
-# 👋 Lucas Acuña
+#  Lucas Acuña
 ## Desarrollador Full Stack | Ciudad del Este, Paraguay
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
 Soy un desarrollador apasionado por crear experiencias digitales excepcionales. Me especializo en construir aplicaciones web robustas, desde interfaces de usuario intuitivas hasta arquitecturas backend escalables. 
 
@@ -60,38 +60,33 @@ Mi enfoque va más allá del código: me concentro en resolver problemas reales 
 
 ---
 
-### 🎯 Lo que me caracteriza
+### Lo que me caracteriza
 
-✨ **Código limpio y mantenible** - Escribo pensando en el equipo que viene después  
-🚀 **Enfoque en rendimiento** - Optimizo desde el primer commit  
-🔧 **Automatización inteligente** - Si se puede automatizar, se debe automatizar  
-📱 **Experiencia de usuario primero** - La tecnología debe ser invisible para el usuario  
-🌐 **Mentalidad remota** - Colaboración efectiva sin importar la distancia  
+ **Código limpio y mantenible** - Escribo pensando en el equipo que viene después  
+ **Enfoque en rendimiento** - Optimizo desde el primer commit  
+ **Automatización inteligente** - Si se puede automatizar, se debe automatizar  
+ **Experiencia de usuario primero** - La tecnología debe ser invisible para el usuario  
+ **Mentalidad remota** - Colaboración efectiva sin importar la distancia  
 
 ---
 
 ### 🛠️ Proyectos destacados
 
-🌟 **Aplicaciones Web Modernas** - Desarrollo completo con React y Laravel  
-⚡ **APIs Escalables** - Arquitecturas backend que crecen con tu negocio  
-🐳 **Infraestructura Cloud** - Despliegues automatizados con Docker y K8s  
-📊 **Optimización de Bases de Datos** - Queries rápidos y estructuras eficientes  
+ **Aplicaciones Web Modernas** - Desarrollo completo con React y Laravel  
+ **APIs Escalables** - Arquitecturas backend que crecen con tu negocio  
+ **Infraestructura Cloud** - Despliegues automatizados con Docker 
+ **Optimización de Bases de Datos** - Queries rápidos y estructuras eficientes  
 
 ---
 
-### 🤝 ¿Trabajamos juntos?
-
-Estoy siempre abierto a nuevos desafíos y oportunidades interesantes. Si buscas a alguien que combine habilidades técnicas sólidas con una mentalidad orientada a resultados, charlemos.
-
-**📧 Email:** contactolucasacuna@gmail.com  
-**💼 LinkedIn:** [Lucas Acuña](https://www.linkedin.com/in/lucas-acu%C3%B1a/)  
-**📋 CV:** [Descargar Resume](https://github.com/lucasandlucas999/lucasandlucas999/releases/download/Resume/CV_Lucas_Acuna.pdf)
+** Email:** contactolucasacuna@gmail.com  
+** LinkedIn:** [Lucas Acuña](https://www.linkedin.com/in/lucas-acu%C3%B1a/)  
+** CV:** [Descargar Resume](https://github.com/lucasandlucas999/lucasandlucas999/releases/download/Resume/CV_Lucas_Acuna.pdf)
 
 ---
 
 <div align="center">
 
-### 💡 *"El mejor código es el que resuelve problemas reales"*
 
 <table>
 <tr>
@@ -105,6 +100,6 @@ Estoy siempre abierto a nuevos desafíos y oportunidades interesantes. Si buscas
 </table>
 
 
-**🚀 Disponible para proyectos remotos | Listo para empezar 🚀**
+** Disponible para proyectos remotos **
 
 </div>
