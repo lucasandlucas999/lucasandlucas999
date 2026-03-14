@@ -8,7 +8,7 @@
 Soy un desarrollador apasionado por crear experiencias digitales excepcionales. Me especializo en construir aplicaciones web robustas, desde interfaces de usuario intuitivas hasta arquitecturas backend escalables. 
 
 ---
-# 🛠️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -18,6 +18,7 @@ Soy un desarrollador apasionado por crear experiencias digitales excepcionales. 
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
 </p>
@@ -27,7 +28,6 @@ Soy un desarrollador apasionado por crear experiencias digitales excepcionales. 
 <p>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
 ## Base de Datos
